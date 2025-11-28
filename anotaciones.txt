@@ -1,6 +1,31 @@
 Time_end = target date -1
 Time_start =  time_end – 3
 
+No puedo comprobar si mongodb funciona
+no puedo ejecutar docker compose
+no se donde poner el codigo de fetch
+
+tiene que definir el body
+hacer elfetch
+procesar features
+BD.
+response
+
+mierda, mierda, mierda
+
+acquire se comunica ??????
+
+http://localhost:3002/predict
+
+{
+  "features": [1.315,1.81,1.27,8,0,9,30],
+  "meta": {
+    "featureCount": 7,
+    "dataId": "6772c1f3e2a0b12345678901",
+    "source": "orchestrator"
+  }
+}
+
 ¿¿¿Fetch???
 
 const KUNNA_URL = "https://openapi.kunna.es/data/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjM2NDEwNjB9.ixb4O5Jgk-e_oPMSsycpD7A_iGVqIl4Ijl2a_kLrT94";
