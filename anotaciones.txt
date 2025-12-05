@@ -78,3 +78,16 @@ async function fetchKunna(timeStart, timeEnd) {
 
 ????
 
+Accuire
+1-obtengo fechas
+fechap = hoy+1
+fechap = hoy
+time_end = fecha-1
+time_end = fecha
+2-fetch
+3-transformnar a features los datos
+4-Guarda en MongoDB el input a Kunna y el output deseado con la fecha
+5-prueba JSON??
+
+después: Orquestador
+llama al aquire, y el output se lo manda a predict
